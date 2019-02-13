@@ -1,0 +1,100 @@
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color : #d9d9d9;
+  margin: 10px; auto;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  font-weight: 10px;
+  text-align: justify;
+  color: #738598;
+  padding: 10px 30px 10px 30px;
+  margin: 0px;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  color: #cf3030;
+  padding: 5px;
+}
+
+i {
+  padding: 0px 40px 0px 40px;
+  font-size: 30px;
+}
+
+h2 {
+  font-weight: 30%;
+  font-size: 140%;
+  color: #738598;
+}
+
+h3 {
+  margin: 0px;
+  padding: 8px;
+  font-size: 18px;
+  color: #738598;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #738598;
+}
+
+a:hover {
+  color: #cf3030;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 200px;
+  border: 2px solid #cf3030;
+}
+
+.img-little {
+  width: 80px
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  text-align: center;
+  margin: 20px auto;
+  padding: 30px 10px 40px 20px;
+  border-radius: 3px;
+  box-shadow: 1px 2px 6px rgba(0,0,0,0.2);
+}
+
+.description-align {
+  text-align: center;
+  font-size: 18px;
+}
+
+.btn-red {
+  background-color: #cf3030;
+  color: white;
+  border-radius: 4px;
+  font-weight: 500;
+  padding: 10px
+}
+
+.btn-red:hover {
+  color: white;
+  background-color: #DD5555;
+}
